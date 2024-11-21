@@ -1,0 +1,9 @@
+google-generativeai
+python-dotenv
+IPython
+streamlit
+pillow
+opencv-python
+tensorflow
+torch
+gtts
